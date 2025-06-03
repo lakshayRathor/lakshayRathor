@@ -1,8 +1,8 @@
 ## Hi there 👋
 - 🔭 I’m a final year student  working on java , spring boot and many more tech.
 - 🌱 I’m currently learning Genrative AI and blockchain technologies.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for a job 
+- 👯 I’m looking to collaborate on web devlopment projects.
+- 🤔 I’m looking for entry level software engineer role.
 
 
 ## 🌐 Socials:
